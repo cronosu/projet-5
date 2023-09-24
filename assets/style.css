@@ -104,7 +104,7 @@ body {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #73774b;
+	background-color: #7C7940;
 	border-radius:0 ;
 	
 
@@ -161,8 +161,18 @@ body {
 	font-family: Spectral;
 	font-weight: 800;
 	font-size: 22px;
+
 }
 
+body a {
+    text-decoration: none ;
+   color: #000;
+}
+
+body a:hover {
+    text-decoration: none;
+   color: #ff00a6;
+}
 #services {
 	margin: auto;
 	background-color: #A8D5D8 ;
